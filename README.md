@@ -263,7 +263,7 @@ bash scripts/install_zxp_with_upia.sh
 The script looks for Adobe Unified Plugin Installer Agent in the standard Creative Cloud Desktop path.  
 이 스크립트는 Creative Cloud Desktop에 포함된 Adobe Unified Plugin Installer Agent의 기본 경로를 사용합니다.
 
---
+---
 
 ## 🔧 Manual install reference / 수동 설치 참고
 
